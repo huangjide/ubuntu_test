@@ -1,4 +1,1 @@
-ubuntu_test
-===========
-
-my fisrt test app created in ubuntu.
+This is my test app that created on ubuntu used git.
